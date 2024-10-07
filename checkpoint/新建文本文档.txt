@@ -1,4 +1,0 @@
-download the pretrain  video encoder parameter from https://github.com/facebookresearch/av_hubert
-put person_dic here
-put shape_dic here
-put ede checkpoint in EDE file, emg checkpoint in EMG file
