@@ -1,1 +1,0 @@
-download generic_model.pkl, FLAME_masks.pkl, landmark_embedding.npy from https://flame.is.tue.mpg.de/ and put it in here
