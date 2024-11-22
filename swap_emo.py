@@ -9,7 +9,6 @@ import tqdm
 import sys
 import torch
 import argparse
-#sys.path.append('/home/yuqihang/code/GeneFace')
 from utils.commons.tensor_utils import move_to_cuda
 from utils.commons.ckpt_utils import load_ckpt, get_last_checkpoint
 from collections import OrderedDict
